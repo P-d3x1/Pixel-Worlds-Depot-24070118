@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "793671830578",
+    "firebase_url": "https://pixel-worlds.firebaseio.com",
+    "project_id": "pixel-worlds",
+    "storage_bucket": "pixel-worlds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793671830578:android:1a61bd381e529b2e",
+        "android_client_info": {
+          "package_name": "com.kukouri.wizworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793671830578-0n0lkedfir5p8fa27qbma7p51alpiehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ipv0uy_RLS6wcfp4ogGBA6SgGIhoyIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
